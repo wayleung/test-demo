@@ -15,8 +15,8 @@ import java.util.List;
  * @Description:
  */
 @Controller
-@RequestMapping(value = "/api")
-public class UserController {
+@RequestMapping(value = "/test")
+public class TestController {
     @Autowired
     UserService userService;
 
