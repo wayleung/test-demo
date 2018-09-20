@@ -1,0 +1,31 @@
+{
+  "name": "test-frontend",
+  "version": "1.0.0",
+  "description": "test-frontend demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wayleung/test-demo.git"
+  },
+  "keywords": [
+    "node.js",
+    "static",
+    "html",
+    "javascript",
+    "js"
+  ],
+  "author": "Way",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wayleung/test-demo/issues"
+  },
+  "homepage": "https://github.com/wayleung/test-demo#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "http": "^0.0.0",
+    "http-proxy-middleware": "^0.19.0"
+  }
+}
